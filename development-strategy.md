@@ -8,7 +8,7 @@
 - [ ] HTML in index.html
   - [ ] Head: In branch `1-head` : add script paths in the head tag
   - [ ] Body
-    - [ ] Button
+    - [ ] Button: In branch `2-buttons` call the functions from scripts
 - [ ] Scripts
   - [ ] 1
   - [ ] 2

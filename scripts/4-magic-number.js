@@ -28,7 +28,7 @@ function magicNumberHandler() {
   // log action for the developer
   console.log('\n--- magic number ---');
   console.log('magicNumber:', typeof magicNumber, '\n', magicNumber);
-  console.log('faveNumber:', typeof favenumber, '\n', faveNumber);
+  console.log('faveNumber:', typeof faveNumber, '\n', faveNumber);
   console.log('birthDate:', typeof birthDate, '\n', birthDate);
   console.log('message:', typeof message, '\n', message);
 

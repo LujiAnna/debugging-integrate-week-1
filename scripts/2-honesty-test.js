@@ -9,7 +9,7 @@ function honestyTestHandler() {
   // read inputs from user
   const userString = String('Please enter something:');
 
-  const confirmation = Boolean('Did you enter something? \nyes: "ok" \nno: "cancel"');
+  const confirmation = confirm('Did you enter something? \nyes: "ok" \nno: "cancel"');
 
   // before moving on ... type check!
   if (typeof userString !== 'string') {

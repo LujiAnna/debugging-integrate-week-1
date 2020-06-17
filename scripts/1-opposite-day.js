@@ -9,7 +9,7 @@ function oppositeDayHandler() {
   debugger;
 
   // read inputs from user
-  const showTheNumber = Boolean('do you want to see a random number?');
+  const showTheNumber = confirm('do you want to see a random number?');
 
   // before moving on ... type check!
   if (typeof showTheNumber !== 'boolean') {

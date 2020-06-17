@@ -25,4 +25,4 @@
   - [ ] 2-honesty-test script: In branch `2-honesty-test` fill blanks
   - [ ] 3-personality-test: In branch `3-personality-test` fix errors and bugs
   - [ ] 4-magic-number: In branch `4-magic-number` fix errors and bugs
-- [ ] Corrections: In branch `5-corrections` change Boolean to confirm so user can be prompted for y/n options
+- [ ] Corrections: In branch `5-corrections` change Boolean to confirm so user can be prompted for y/n options is scripts !&2, also favenumber type typo in script 4

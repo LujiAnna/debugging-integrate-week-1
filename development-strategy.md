@@ -4,7 +4,7 @@
 
 1. Use debugger in script
 2. Open DevTools open.
-3. Set your debugger to pause on exceptions
+3. Set the debugger to pause on exceptions
 4. Carefully read all console output, especially error messages.
 5. Expand errors to practice reading the call stack
 6. Click on the line numbers to the right of console output to read the source code

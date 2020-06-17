@@ -4,6 +4,7 @@ console.log('--- loading: opposite day');
 
 function oppositeDayHandler() {
   'use strict';
+
   // eslint-disable-next-line no-debugger
   debugger;
 

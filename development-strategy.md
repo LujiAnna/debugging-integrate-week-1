@@ -22,6 +22,6 @@
     - [ ] Button: In branch `2-buttons` call the functions from scripts
 - [ ] Scripts
   - [ ] 1-opposite-day script: In branch `1-opposite-day` fill blanks
-  - [ ] 2
+  - [ ] 2-honesty-test script: In branch `2-honesty-test` fill blanks
   - [ ] 3
   - [ ] 4
